@@ -1,0 +1,1 @@
+https://www.ionos.co.uk/digitalguide/websites/web-development/use-php-to-retrieve-information-from-a-mysql-mariadb-database/

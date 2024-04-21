@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile /var/www/html/passwd
+Require user bob
+Require user andy
+Require user admin
+
