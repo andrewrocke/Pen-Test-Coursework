@@ -1,7 +1,7 @@
 # pentest
 Pen Testing Coursework
 
- Kali Linux Apache LAMP Web Server Application testing and Vulnerability scanning & mitigation using Web Application Firewall
+ Kali Linux Apache LAMP Web Server Application Vulnerability scanning & mitigation using Web Application Firewall
 
  Tools used ZAP, Nikto, Hydra
 
